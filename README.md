@@ -13,9 +13,13 @@ Validates user input (username, email, password) and provides instant feedback.
 
 Form-Creation-Validation/
 │
+
 ├── index.html # The HTML form
+
 ├── style.css # Basic styling for form & feedback
+
 ├── script.js # JavaScript validation logic
+
 └── README.md # This document
 
 
